@@ -205,22 +205,7 @@ function loginOpenForm() {
 
 
 <center>
-<div class="row_port">
-  <div class="column_port">
-    <img src="acc.jpeg" id="image1" alt="frontend" style="width:200%; margin-left: -300%" >
-  </div>
-  <div class="column_port">
-    <img src="ntt.png" id="image1" alt="accenture" style="width:175%;margin-left: -70%">
-  </div>
-</div>
-  <div class="row_port">
-  <div class="column_port">
-    <img src="uta.png" id="image1" alt="nttdata" style="width:175%; margin-left: -300%" >
-  </div>
-  <div class="column_port">
-    <img src="shake.png" id="image1" alt="handshake" style="width:175%;margin-left: -70%">
-  </div>
-</div>
+
 
  </center>
  <br>
