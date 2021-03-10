@@ -211,14 +211,7 @@ function loginOpenForm() {
      
      
      
-      <td style="padding-bottom: 60px; padding-left: 50px">
-        <p><strong>Address</strong></p>
-        <p>1008 Greek Row,Arbor Oaks</p>
-        <p><strong>Phone</strong></p>
-        <p>+682-701-8027</p>
-        <p><strong>Email</strong></p>
-        <p>abhishek.nagaraj@mavs.uta.edu</p>
-      </td>
+    
      </tr>
 
 
