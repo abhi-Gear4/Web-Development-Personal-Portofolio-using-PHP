@@ -116,7 +116,7 @@ function loginOpenForm() {
      
           
           <ul >
-            <li><a href = "home.php">ABHISHEK NAGARAJ</a> </li>
+            <li><a href = "home.php">Anime</a> </li>
             <li><a href = "about.php">ABOUT</a> </li>
             <li><a href = "Progess.php">SKILLS</a> </li>
             <li><a href= "portfolio.php"> PORTFOLIO </a></li>
@@ -242,15 +242,7 @@ function loginOpenForm() {
        <button type="button" class="btn">Send</button>
      
      
-     
-      <td style="padding-bottom: 60px; padding-left: 50px">
-        <p><strong>Address</strong></p>
-        <p>1008 Greek Row,Arbor Oaks</p>
-        <p><strong>Phone</strong></p>
-        <p>+682-701-8027</p>
-        <p><strong>Email</strong></p>
-        <p>abhishek.nagaraj@mavs.uta.edu</p>
-      </td>
+    
      </tr>
 
 
@@ -393,7 +385,7 @@ function loginOpenForm() {
         <a href="#" class="fa fa-twitter"  style ="font-size: 22px"> </a>
         <a href="#" class="fa fa-google-plus"  style ="font-size: 22px"> </a>
         <a href="#" class="fa fa-instagram" style ="font-size: 22px"></a>
-      <p style="font-size: 12px"> <strong>Abhishek Nagaraj </strong></p>
+      <p style="font-size: 12px"> <strong>Abhishek </strong></p>
       <p > &copy;Abhishek CV.All rights reserved.</p>
       <p > Design- ABHISHEK </p>
 
